@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{3B1BBCCB-24AD-47BD-A5F7-1F32C11AA5CB}|Default">
+  <MonoDevelop.Ide.ItemProperties.ResumeBuilder.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ResumeBuilder Status">
+    <Files>
+      <File FileName="ResumeBuilder Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ResumeBuilder.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.29AC3654-918B-4A92-9CD0-DB3CDCE28343" />
+  <MultiItemStartupConfigurations />
+</Properties>
