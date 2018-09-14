@@ -10,7 +10,6 @@
 /Users/trentpearson/Desktop/ResumeBuilder/ResumeBuilder/bin/Debug/netstandard2.0/ResumeBuilder.deps.json
 /Users/trentpearson/Desktop/ResumeBuilder/ResumeBuilder/bin/Debug/netstandard2.0/ResumeBuilder.dll
 /Users/trentpearson/Desktop/ResumeBuilder/ResumeBuilder/bin/Debug/netstandard2.0/ResumeBuilder.pdb
-/Users/trentpearson/Desktop/ResumeBuilder/ResumeBuilder/obj/Debug/netstandard2.0/ResumeBuilder.csprojAssemblyReference.cache
 /Users/trentpearson/Desktop/ResumeBuilder/ResumeBuilder/obj/Debug/netstandard2.0/ResumeBuilder.csproj.CoreCompileInputs.cache
 /Users/trentpearson/Desktop/ResumeBuilder/ResumeBuilder/obj/Debug/netstandard2.0/ResumeBuilder.AssemblyInfoInputs.cache
 /Users/trentpearson/Desktop/ResumeBuilder/ResumeBuilder/obj/Debug/netstandard2.0/ResumeBuilder.AssemblyInfo.cs

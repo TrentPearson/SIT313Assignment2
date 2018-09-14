@@ -4,7 +4,7 @@
     <Grid>
         <Image Source="backgroundImage2.jpg" Aspect="AspectFill" Opacity="0.6"/>
     <StackLayout>
-        <Button x:Name="LoginBtn" FontSize="20" BackgroundColor="Transparent" Text="Sign Up" TranslationY="530" HorizontalOptions="Fill" WidthRequest="300" HeightRequest="60" Margin="20, 0, 20, 0"/>
+        <Button x:Name="SignUpBtn" FontSize="20" BackgroundColor="Transparent" Text="Sign Up" TranslationY="530" HorizontalOptions="Fill" WidthRequest="300" HeightRequest="60" Margin="20, 0, 20, 0" Clicked="signup"/>
         <Button x:Name="BackBtn" FontSize="20" BackgroundColor="Transparent" Text="Back" TranslationY="530" HorizontalOptions="Fill" WidthRequest="300" Margin="20, 0, 20, 0" Clicked="backBtn"/>
         <Entry Placeholder="First Name" TranslationY="100" HeightRequest="50" Margin="20, 0, 20, 0"/>
         <Entry Placeholder="Last Name" TranslationY="110" HeightRequest="50" Margin="20, 0, 20, 0"/>

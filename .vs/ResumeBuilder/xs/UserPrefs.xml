@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{3B1BBCCB-24AD-47BD-A5F7-1F32C11AA5CB}|Default">
-  <MonoDevelop.Ide.ItemProperties.ResumeBuilder.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ResumeBuilder Status">
+  <MonoDevelop.Ide.ItemProperties.ResumeBuilder.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ResumeBuilder/View/HomePage.xaml.cs">
     <Files>
-      <File FileName="ResumeBuilder Status" />
+      <File FileName="ResumeBuilder/View/HomePage.xaml" Line="23" Column="1" />
+      <File FileName="ResumeBuilder/View/HomePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="ResumeBuilder/View/CreateAccount.xaml" Line="17" Column="15" />
+      <File FileName="ResumeBuilder/View/CreateAccount.xaml.cs" Line="21" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

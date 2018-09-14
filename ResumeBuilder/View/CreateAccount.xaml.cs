@@ -16,5 +16,10 @@ namespace ResumeBuilder
         {
             await Navigation.PushModalAsync(new MainPage());
         }
+
+        private async void signup(object sender, System.EventArgs e)
+        {
+            await Navigation.PushModalAsync(new MainPage());
+        }
     }
 }
