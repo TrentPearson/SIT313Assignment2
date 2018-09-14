@@ -158,5 +158,6 @@
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\backgroundImage2.jpg" />
+    <BundleResource Include="Resources\backgroundImage1.jpg" />
   </ItemGroup>
 </Project>

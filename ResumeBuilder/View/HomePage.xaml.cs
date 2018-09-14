@@ -11,9 +11,6 @@ namespace ResumeBuilder.View
         {
             InitializeComponent();
         }
-        private async void backBtn(object sender, System.EventArgs e)
-        {
-            await Navigation.PushModalAsync(new MainPage());
-        }
+
     }
 }

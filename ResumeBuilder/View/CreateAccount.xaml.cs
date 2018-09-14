@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using ResumeBuilder.View;
 using Xamarin.Forms;
 
 namespace ResumeBuilder
